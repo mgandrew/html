@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>First Attempt</title>
+ 
+</head>
+<body>
+  <h1>My First Webpage</h1>
+  <p>Example paragraph. Yeah, it's kind of short. <br />All of this is currently coded in html. The following is a list.</p>
+  <a href="https://www.codecademy.com" target="_blank">This is where I learned to code.</a>
+  <ul>
+    <li>Item one.
+    <li>Item two.
+    <li>Item three.
+  </ul>
+  <p>Even better, here's an ordered (numbered) list.<br />Hopefully looking back on this code helps me in the future.</p>
+  <ol>
+    <li>This is hard.
+    <li>But super fun.
+    <li>I'm excited to learn more.
+    <li>The following is a bear.
+  </ol>
+  <a href="https://en.wikipedia.org/wiki/Brown_bear" target="blank"><img src="https://s3.amazonaws.com/codecademy-content/courses/web-101/web101-image_brownbear.jpg" alt="It's a motherfucking bear." /></a>
+  <!-- This is a comment that won't show up on the rest of the page -->
+</body>
+</html>
